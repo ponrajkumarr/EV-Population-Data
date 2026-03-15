@@ -57,9 +57,10 @@ The dataset used in this project represents **U.S. Electric Vehicle Population D
 
 ## 👩‍💻 Author
 **Ponraj Kumar R**  
-Tableau Developer | Data Analyst  
-📍 Tamil Nadu, India  
-📧 https://www.linkedin.com/in/pnrjkmr/ 
+Tableau Developer | Data Analyst 
+pnrjkmr2008@gmail.com
+📍 Chennai  
+https://www.linkedin.com/in/ponrajkumar-dataanalyst/
 
 ---
 
